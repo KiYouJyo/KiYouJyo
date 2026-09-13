@@ -10,11 +10,37 @@
 
 ## 私の活動が交わるところ
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-map-ja-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/work-map-ja-light.svg">
-  <img alt="都市・計画研究、空間コンピューティング、ソフトウェア開発" src="./assets/work-map-ja-light.svg" width="100%">
-</picture>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 🏙️ 都市・計画研究
+
+**計画制度 · 空間ガバナンス · 都市形態**
+
+都市域・非都市域における計画制度、ガバナンス、形態変化を研究しています。
+
+</td>
+<td width="33%" valign="top">
+
+### 🗺️ 空間コンピューティング
+
+**GIS · CAD · BIM · 再現可能な研究**
+
+空間データ、分析手法、研究ワークフローを再利用可能な技術基盤として構築します。
+
+</td>
+<td width="33%" valign="top">
+
+### 🪟 ソフトウェア開発
+
+**Windows ネイティブアプリ · WinUI 3 / .NET**
+
+実際のワークフローに沿った目的特化型デスクトップツールを、保守しやすい構成で開発します。
+
+</td>
+</tr>
+</table>
 
 私は **都市・地域計画、空間コンピューティング、ソフトウェア工学の交差領域** に関心があります。研究と開発を別々のものとして扱うよりも、計画上の問い、空間データ、実際のワークフローを、使いやすく保守可能なソフトウェアや研究基盤へつなげることを目指しています。
 
