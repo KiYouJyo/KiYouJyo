@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="城市研究、空间计算与软件开发">
+  <style>
+    .title { font: 700 32px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans SC","Noto Sans JP","Microsoft YaHei",sans-serif; fill:#1f2328; }
+    .body { font: 400 30px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans SC","Noto Sans JP","Microsoft YaHei",sans-serif; fill:#1f2328; }
+  </style>
+  <rect x="1" y="1" width="1198" height="298" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <line x1="400" y1="1" x2="400" y2="299" stroke="#d0d7de" stroke-width="2"/>
+  <line x1="800" y1="1" x2="800" y2="299" stroke="#d0d7de" stroke-width="2"/>
+  <line x1="1" y1="92" x2="1199" y2="92" stroke="#d0d7de" stroke-width="2"/>
+  <text x="200" y="62" text-anchor="middle" class="title">🏙️  城市研究</text>
+<text x="200" y="145" text-anchor="middle" class="body">规划体系</text>
+<text x="200" y="198" text-anchor="middle" class="body">空间治理</text>
+<text x="200" y="251" text-anchor="middle" class="body">城市形态</text>
+<text x="600" y="62" text-anchor="middle" class="title">🗺️  空间计算</text>
+<text x="600" y="145" text-anchor="middle" class="body">GIS / CAD / BIM</text>
+<text x="600" y="198" text-anchor="middle" class="body">可重复研究方法</text>
+<text x="600" y="251" text-anchor="middle" class="body">研究基础设施</text>
+<text x="1000" y="62" text-anchor="middle" class="title">🪟  软件开发</text>
+<text x="1000" y="145" text-anchor="middle" class="body">Windows 原生应用</text>
+<text x="1000" y="198" text-anchor="middle" class="body">WinUI 3 / .NET</text>
+<text x="1000" y="251" text-anchor="middle" class="body">专注型桌面工具</text>
+</svg>
