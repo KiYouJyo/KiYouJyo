@@ -10,7 +10,7 @@
 
 ## 私の活動が交わるところ
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 <strong>🏙️ 都市・計画研究</strong>
@@ -50,7 +50,7 @@ WinUI 3 / .NET<br>
 
 ## 主なプロジェクト
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
