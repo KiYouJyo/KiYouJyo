@@ -12,20 +12,31 @@
 
 <table>
 <tr>
-<td width="33%" align="center">
-<strong>🏙️ 城市研究</strong><br><br>
+<td width="33%" align="center" valign="top">
+<strong>🏙️ 城市研究</strong>
+</td>
+<td width="33%" align="center" valign="top">
+<strong>🗺️ 空间计算</strong>
+</td>
+<td width="33%" align="center" valign="top">
+<strong>🪟 软件开发</strong>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<br>
 规划体系<br>
 空间治理<br>
 城市形态
 </td>
-<td width="33%" align="center">
-<strong>🗺️ 空间计算</strong><br><br>
+<td width="33%" align="center" valign="top">
+<br>
 GIS / CAD / BIM<br>
 可重复研究方法<br>
 研究基础设施
 </td>
-<td width="33%" align="center">
-<strong>🪟 软件开发</strong><br><br>
+<td width="33%" align="center" valign="top">
+<br>
 Windows 原生应用<br>
 WinUI 3 / .NET<br>
 专注型桌面工具
