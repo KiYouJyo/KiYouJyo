@@ -12,20 +12,31 @@
 
 <table>
 <tr>
-<td width="33%" align="center">
-<strong>🏙️ 都市・計画研究</strong><br><br>
+<td width="33%" align="center" valign="top">
+<strong>🏙️ 都市・計画研究</strong>
+</td>
+<td width="33%" align="center" valign="top">
+<strong>🗺️ 空間コンピューティング</strong>
+</td>
+<td width="33%" align="center" valign="top">
+<strong>🪟 ソフトウェア開発</strong>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<br>
 計画制度<br>
 空間ガバナンス<br>
 都市形態
 </td>
-<td width="33%" align="center">
-<strong>🗺️ 空間コンピューティング</strong><br><br>
+<td width="33%" align="center" valign="top">
+<br>
 GIS / CAD / BIM<br>
 再現可能な研究手法<br>
 研究基盤
 </td>
-<td width="33%" align="center">
-<strong>🪟 ソフトウェア開発</strong><br><br>
+<td width="33%" align="center" valign="top">
+<br>
 Windows ネイティブアプリ<br>
 WinUI 3 / .NET<br>
 目的特化型デスクトップツール
