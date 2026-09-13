@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.jpg" alt="Kiyō Jo — Urban Planning × Spatial Computing × Native Windows" width="100%">
+<img src="./assets/profile-banner.png" alt="Kiyō Jo — Urban Planning × Spatial Computing × Native Windows" width="100%">
 
 [中文](./README.md) · **日本語** · [English](./README.en.md)
 
