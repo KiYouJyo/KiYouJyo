@@ -10,11 +10,37 @@
 
 ## 我的工作交汇于这里
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-map-zh-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/work-map-zh-light.svg">
-  <img alt="城市研究、空间计算与软件开发" src="./assets/work-map-zh-light.svg" width="100%">
-</picture>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 🏙️ 城市研究
+
+**规划体系 · 空间治理 · 城市形态**
+
+关注城市与非都市区域的规划制度、治理机制与形态演变。
+
+</td>
+<td width="33%" valign="top">
+
+### 🗺️ 空间计算
+
+**GIS · CAD · BIM · 可重复研究**
+
+把空间数据、分析方法与研究流程组织成可复用的技术基础设施。
+
+</td>
+<td width="33%" valign="top">
+
+### 🪟 软件开发
+
+**Windows 原生应用 · WinUI 3 / .NET**
+
+面向真实工作流开发专注型桌面工具，并保持模块边界与长期可维护性。
+
+</td>
+</tr>
+</table>
 
 关注 **城乡规划、空间计算与软件工程的交叉领域**。相比把研究和开发分成两件事，更倾向把规划问题、空间数据与真实工作流转化为可使用、可维护的研究基础设施。
 
