@@ -1,52 +1,43 @@
 <div align="center">
 
-# Kiyō Jo
+<img src="./assets/profile-banner.jpg" alt="Kiyō Jo — Urban Planning × Spatial Computing × Native Windows" width="100%">
 
-### Urban Planning · Spatial Computing · Native Windows
-
-I study cities, spatial systems and planning — and build software around them.
-
-<p>
-  <img src="https://img.shields.io/badge/Urban%20Planning-Research-5B6EAE?style=flat-square" alt="Urban Planning">
-  <img src="https://img.shields.io/badge/GIS-Spatial%20Computing-2E7D32?style=flat-square" alt="GIS">
-  <img src="https://img.shields.io/badge/Windows-WinUI%203-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="WinUI 3">
-  <img src="https://img.shields.io/badge/Languages-中文%20·%20日本語%20·%20English-6F42C1?style=flat-square" alt="Languages">
-</p>
+**中文** · [日本語](./README.ja.md) · [English](./README.en.md)
 
 </div>
 
 ---
 
-## Where my work connects
+## 我的工作交汇于这里
 
 <table>
 <tr>
 <td width="33%" align="center">
-<strong>🏙️ Urban Research</strong><br><br>
-Planning systems<br>
-Spatial governance<br>
-Urban morphology
+<strong>🏙️ 城市与规划研究</strong><br><br>
+规划体系<br>
+空间治理<br>
+城市形态
 </td>
 <td width="33%" align="center">
-<strong>🗺️ Spatial Computing</strong><br><br>
-GIS & CAD<br>
-Reproducible methods<br>
-Research infrastructure
+<strong>🗺️ 空间计算</strong><br><br>
+GIS / CAD / BIM<br>
+可重复研究方法<br>
+研究基础设施
 </td>
 <td width="33%" align="center">
-<strong>🪟 Software</strong><br><br>
-Native Windows apps<br>
+<strong>🪟 软件开发</strong><br><br>
+Windows 原生应用<br>
 WinUI 3 / .NET<br>
-Focused desktop tools
+专注型桌面工具
 </td>
 </tr>
 </table>
 
-I’m especially interested in work that sits between these three areas: turning planning questions, spatial data and everyday workflows into usable software.
+我关注 **城乡规划、空间计算与软件工程的交叉领域**。相比把研究和开发分成两件事，我更喜欢把规划问题、空间数据与真实工作流转化为可使用、可维护的软件和研究基础设施。
 
 ---
 
-## Selected work
+## 精选项目
 
 <table>
 <tr>
@@ -54,9 +45,9 @@ I’m especially interested in work that sits between these three areas: turning
 
 ### 🎞️ [Eizo / 映藏](https://github.com/KiYouJyo/Eizo)
 
-A native Windows personal media library built with Japanese anime and drama in mind.
+面向 Windows 的原生个人影音库，优先服务日本动漫与日剧。
 
-**Focus:** media recognition, metadata, playback, WebDAV and a native WinUI experience.
+**重点：** 媒体识别、元数据、播放、WebDAV，以及完整的 WinUI 原生体验。
 
 [![Eizo](https://img.shields.io/badge/Project-Eizo-7B68EE?style=flat-square)](https://github.com/KiYouJyo/Eizo)
 ![WinUI 3](https://img.shields.io/badge/WinUI-3-0078D4?style=flat-square)
@@ -67,9 +58,9 @@ A native Windows personal media library built with Japanese anime and drama in m
 
 ### 🧰 [UrbanPlanToolbox](https://github.com/KiYouJyo/UrbanPlanToolbox)
 
-An offline-first Windows toolbox for urban planning, architecture and spatial research.
+面向城乡规划、建筑设计与空间研究的离线优先 Windows 工具箱。
 
-**Focus:** practical planning workflows, local-first tools, multilingual UX and desktop distribution.
+**重点：** 规划工作流、本地优先工具、三语界面与桌面分发。
 
 [![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-Available-0078D4?style=flat-square&logo=microsoftstore&logoColor=white)](https://apps.microsoft.com/detail/9MWDPJG1BHKW)
 ![Windows](https://img.shields.io/badge/Windows-WinUI%203-0078D4?style=flat-square)
@@ -82,9 +73,9 @@ An offline-first Windows toolbox for urban planning, architecture and spatial re
 
 ### 🗺️ [Spatial Viewer / 图览](https://github.com/KiYouJyo/SpatialViewer)
 
-A modern Windows viewer for engineering and spatial data.
+面向工程图纸与空间数据的现代 Windows 看图器。
 
-**Focus:** CAD, GIS, BIM/IFC and Rhino data through a modular viewing architecture.
+**重点：** 以模块化架构统一查看 CAD、GIS、BIM/IFC 与 Rhino 数据。
 
 ![CAD](https://img.shields.io/badge/CAD-DWG%20%2F%20DXF-57606A?style=flat-square)
 ![GIS](https://img.shields.io/badge/GIS-Spatial%20Data-2E7D32?style=flat-square)
@@ -95,9 +86,9 @@ A modern Windows viewer for engineering and spatial data.
 
 ### 📖 [PageArc](https://github.com/KiYouJyo/PageArc)
 
-A local-first reflowable ebook reader for Windows.
+本地优先的 Windows 流式电子书阅读器。
 
-**Focus:** native reading UX, modular format conversion, library management and offline-first design.
+**重点：** 原生阅读体验、模块化格式转换、书库管理与离线优先设计。
 
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=flat-square)
@@ -109,45 +100,45 @@ A local-first reflowable ebook reader for Windows.
 
 ---
 
-## Research & spatial computing
+## 研究与空间计算
 
 ### 🔬 [UrbanPlanningLab](https://github.com/KiYouJyo/UrbanPlanningLab)
 
-Long-term, reusable research infrastructure for urban planning and territorial spatial research.
+面向城乡规划与国土空间研究的长期、可复用、可重复研究基础设施。
 
-Current interests:
+当前主要关注：
 
-- China–Japan planning-system comparison
-- urban and non-urban spatial governance
-- urban morphology and regeneration
-- GIS-based spatial analysis
-- planning computation and reproducible research
+- 中日规划体系比较
+- 城市 / 非都市区域的空间治理
+- 城市形态与城市更新
+- 基于 GIS 的空间分析
+- 规划计算与可重复研究
 
-### 🧭 Related projects
+### 🧭 相关项目
 
-- **[ModernQGIS](https://github.com/KiYouJyo/ModernQGIS)** — experimental modern desktop shell and interaction architecture built around QGIS capabilities.
-- **[ReferenceCity](https://github.com/KiYouJyo/ReferenceCity)** — standardized synthetic city environments for reproducible spatial experiments and method validation.
-- **[SpatialViewer.GisCore](https://github.com/KiYouJyo/SpatialViewer.GisCore)** — GIS-oriented core work behind the Spatial Viewer family.
-
----
-
-## Currently
-
-- Building **Eizo** as a modular Windows media platform.
-- Developing reusable software and data infrastructure for **urban-planning research**.
-- Exploring ways to connect **GIS, CAD/BIM and native desktop UX** without turning every tool into a monolith.
+- **[ModernQGIS](https://github.com/KiYouJyo/ModernQGIS)** — 基于 QGIS 能力探索现代桌面 Shell 与交互架构。
+- **[ReferenceCity](https://github.com/KiYouJyo/ReferenceCity)** — 用于可重复空间实验与方法验证的标准化合成城市环境。
+- **[SpatialViewer.GisCore](https://github.com/KiYouJyo/SpatialViewer.GisCore)** — Spatial Viewer 系列中的 GIS 内核方向。
 
 ---
 
-## Tools I use
+## 当前正在做
 
-**Development**  
+- 将 **Eizo** 持续推进为模块化 Windows 影音平台。
+- 建设可复用的 **城乡规划研究数据、方法与软件基础设施**。
+- 探索 **GIS、CAD/BIM 与原生桌面 UX** 的融合，同时保持各模块边界清晰。
+
+---
+
+## 常用工具与技术
+
+**开发**  
 `C#` · `.NET` · `WinUI 3` · `Windows App SDK` · `Python` · `C++` · `Qt`
 
-**Spatial**  
+**空间与规划**  
 `GIS` · `QGIS` · `CAD` · `BIM / IFC` · `Spatial Analysis`
 
-**Research**  
+**研究**  
 `Urban Planning` · `Urban Morphology` · `Spatial Governance` · `China–Japan Comparative Planning`
 
 ---
@@ -156,6 +147,6 @@ Current interests:
 
 ### Build tools. Study cities. Connect both.
 
-[All repositories](https://github.com/KiYouJyo?tab=repositories)
+[查看全部仓库](https://github.com/KiYouJyo?tab=repositories)
 
 </div>
