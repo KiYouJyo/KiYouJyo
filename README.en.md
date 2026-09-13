@@ -10,39 +10,11 @@
 
 ## Where my work connects
 
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-<strong>🏙️ Urban & Planning Research</strong>
-</td>
-<td width="33%" align="center" valign="top">
-<strong>🗺️ Spatial Computing</strong>
-</td>
-<td width="33%" align="center" valign="top">
-<strong>🪟 Software Development</strong>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-<br>
-Planning systems<br>
-Spatial governance<br>
-Urban morphology
-</td>
-<td width="33%" align="center" valign="top">
-<br>
-GIS / CAD / BIM<br>
-Reproducible methods<br>
-Research infrastructure
-</td>
-<td width="33%" align="center" valign="top">
-<br>
-Native Windows apps<br>
-WinUI 3 / .NET<br>
-Focused desktop tools
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-map-en-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/work-map-en-light.svg">
+  <img alt="Urban research, spatial computing and software development" src="./assets/work-map-en-light.svg" width="100%">
+</picture>
 
 I’m interested in the intersection of **urban planning, spatial computing and software engineering**. Rather than treating research and development as separate tracks, I like turning planning questions, spatial data and real workflows into usable, maintainable software and research infrastructure.
 
