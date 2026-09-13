@@ -10,7 +10,7 @@
 
 ## Where my work connects
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 <strong>🏙️ Urban & Planning Research</strong>
@@ -50,7 +50,7 @@ I’m interested in the intersection of **urban planning, spatial computing and 
 
 ## Selected work
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
