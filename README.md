@@ -10,39 +10,11 @@
 
 ## 我的工作交汇于这里
 
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-<strong>🏙️ 城市研究</strong>
-</td>
-<td width="33%" align="center" valign="top">
-<strong>🗺️ 空间计算</strong>
-</td>
-<td width="33%" align="center" valign="top">
-<strong>🪟 软件开发</strong>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-<br>
-规划体系<br>
-空间治理<br>
-城市形态
-</td>
-<td width="33%" align="center" valign="top">
-<br>
-GIS / CAD / BIM<br>
-可重复研究方法<br>
-研究基础设施
-</td>
-<td width="33%" align="center" valign="top">
-<br>
-Windows 原生应用<br>
-WinUI 3 / .NET<br>
-专注型桌面工具
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-map-zh-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/work-map-zh-light.svg">
+  <img alt="城市研究、空间计算与软件开发" src="./assets/work-map-zh-light.svg" width="100%">
+</picture>
 
 我关注 **城乡规划、空间计算与软件工程的交叉领域**。相比把研究和开发分成两件事，我更喜欢把规划问题、空间数据与真实工作流转化为可使用、可维护的软件和研究基础设施。
 
