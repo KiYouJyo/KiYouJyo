@@ -10,7 +10,7 @@
 
 ## 我的工作交汇于这里
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 <strong>🏙️ 城市研究</strong>
@@ -50,7 +50,7 @@ WinUI 3 / .NET<br>
 
 ## 精选项目
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
