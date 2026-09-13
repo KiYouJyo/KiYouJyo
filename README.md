@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td width="33%" align="center">
-<strong>🏙️ 城市与规划研究</strong><br><br>
+<strong>🏙️ 城市研究</strong><br><br>
 规划体系<br>
 空间治理<br>
 城市形态
