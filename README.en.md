@@ -12,20 +12,31 @@
 
 <table>
 <tr>
-<td width="33%" align="center">
-<strong>🏙️ Urban & Planning Research</strong><br><br>
+<td width="33%" align="center" valign="top">
+<strong>🏙️ Urban & Planning Research</strong>
+</td>
+<td width="33%" align="center" valign="top">
+<strong>🗺️ Spatial Computing</strong>
+</td>
+<td width="33%" align="center" valign="top">
+<strong>🪟 Software Development</strong>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<br>
 Planning systems<br>
 Spatial governance<br>
 Urban morphology
 </td>
-<td width="33%" align="center">
-<strong>🗺️ Spatial Computing</strong><br><br>
+<td width="33%" align="center" valign="top">
+<br>
 GIS / CAD / BIM<br>
 Reproducible methods<br>
 Research infrastructure
 </td>
-<td width="33%" align="center">
-<strong>🪟 Software Development</strong><br><br>
+<td width="33%" align="center" valign="top">
+<br>
 Native Windows apps<br>
 WinUI 3 / .NET<br>
 Focused desktop tools
