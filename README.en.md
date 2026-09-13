@@ -10,11 +10,37 @@
 
 ## Where my work connects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-map-en-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/work-map-en-light.svg">
-  <img alt="Urban research, spatial computing and software development" src="./assets/work-map-en-light.svg" width="100%">
-</picture>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 🏙️ Urban Research
+
+**Planning systems · Spatial governance · Urban morphology**
+
+I study planning institutions, governance and urban form across urban and non-urban contexts.
+
+</td>
+<td width="33%" valign="top">
+
+### 🗺️ Spatial Computing
+
+**GIS · CAD · BIM · Reproducible research**
+
+I turn spatial data, analytical methods and research workflows into reusable technical infrastructure.
+
+</td>
+<td width="33%" valign="top">
+
+### 🪟 Software Development
+
+**Native Windows apps · WinUI 3 / .NET**
+
+I build focused desktop tools around real workflows, with clear module boundaries and long-term maintainability.
+
+</td>
+</tr>
+</table>
 
 I’m interested in the intersection of **urban planning, spatial computing and software engineering**. Rather than treating research and development as separate tracks, I like turning planning questions, spatial data and real workflows into usable, maintainable software and research infrastructure.
 
